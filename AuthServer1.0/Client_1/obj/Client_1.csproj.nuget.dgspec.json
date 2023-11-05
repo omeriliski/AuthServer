@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\AuthServer1.0\\Client_1\\Client_1.csproj": {}
+    "D:\\apps\\AuthServer\\AuthServer1.0\\Client_1\\Client_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\AuthServer1.0\\Client_1\\Client_1.csproj": {
+    "D:\\apps\\AuthServer\\AuthServer1.0\\Client_1\\Client_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\AuthServer1.0\\Client_1\\Client_1.csproj",
+        "projectUniqueName": "D:\\apps\\AuthServer\\AuthServer1.0\\Client_1\\Client_1.csproj",
         "projectName": "Client_1",
-        "projectPath": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\AuthServer1.0\\Client_1\\Client_1.csproj",
-        "packagesPath": "C:\\Users\\ÖmerIliski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\AuthServer1.0\\Client_1\\obj\\",
+        "projectPath": "D:\\apps\\AuthServer\\AuthServer1.0\\Client_1\\Client_1.csproj",
+        "packagesPath": "C:\\Users\\nimlo\\.nuget\\packages\\",
+        "outputPath": "D:\\apps\\AuthServer\\AuthServer1.0\\Client_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ÖmerIliski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nimlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
